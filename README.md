@@ -1,39 +1,58 @@
-# Milan Chanda
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Milan Chanda</h1>
+<h3 align="center">BCA Student | Web Developer in Progress | Learning Full Stack Development</h3>
 
-### Web developer · BCA student · Curious builder
+<!-- CODING GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="400" />
+</p>
 
-I build responsive web experiences and explore how interfaces connect to the systems behind them. Based in West Bengal, India, and studying at **Brainware University**.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Passionate+Frontend+Creator;Learning+DSA+%26+Backend;Turning+Ideas+Into+Reality+🚀" />
+</p>
 
-[Portfolio](https://milan8115.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/milan-chanda/) · [Email](mailto:milanchanda80@gmail.com)
+---
 
-## Selected projects
+## 🚀 About Me
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [CareerConnect](https://github.com/Milan8115/career-connect-portal) | Responsive career portal with job search, filters, role details, and a lightweight backend. An internship project; login is a learning simulation. | HTML, CSS, JavaScript, Node.js |
-| [Energy Trading](https://github.com/Milan8115/energy-trading) | Basic smart contract for listing and purchasing energy units on Stellar testnet. | Rust, Soroban, Stellar |
-| [Dictionary](https://github.com/Milan8115/Dictionary) | Word search with meanings, examples, synonyms, and pronunciation through the Free Dictionary API. | React, JavaScript, CSS |
+- 🔭 I’m currently working on **Personal Portfolio Website**
+- 🌱 I’m currently learning **Node.js, Express.js, Data Structures & Algorithms**
+- 👯 I’m looking to collaborate on **Frontend Web Projects**
+- 🤝 I’m looking for help with **Backend Development & Authentication Systems**
+- 👨‍💻 All of my projects are available at  
+  👉 https://github.com/Milan5118
+- 💬 Ask me about **HTML, CSS, JavaScript, C Programming**
+- 📫 Reach me at **milanchanda80@gmail.com**
+- ⚡ Fun fact: *I love turning ideas into real web projects*
 
-## Experience
+---
 
-**Frontend Developer Intern — Gameonix Esports & Gaming**  
-February–July 2026 · Responsive pages, search and filtering, and frontend/backend integration.
+## 🌐 Connect With Me
 
-**Vernacular Healthcare Diagnostics — Project / Backend development**  
-July–August 2026 · Contributed to a healthcare project exploring native-language digital experiences.
+<p align="center">
+<a href="https://linkedin.com/in/milan-chanda" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
 
-## Toolkit
+---
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, responsive design
-- **Backend and data:** Node.js, Python, PHP, SQL, REST APIs
-- **Tools and exploration:** Git, GitHub, C/C++, Arduino, Soroban
+## 🛠 Languages and Tools
 
-## What I’m learning
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,nodejs,express,mongodb,mysql,php,python,git,linux,arduino" />
+</p>
 
-Deepening my full-stack development and data structures foundations, exploring AI through hands-on projects, and studying Japanese. I also enjoy learning with developer communities and bootcamps, including Build on Stellar in Kolkata.
+---
 
-## Let’s connect
+## 🎯 Current Goals
 
-Interested in web projects, internships, and thoughtful collaborations. Reach me at **[milanchanda80@gmail.com](mailto:milanchanda80@gmail.com)**.
+- 🚀 Build 3 strong full-stack projects
+- 📚 Improve DSA daily
+- 🔐 Master authentication systems
+- 💼 Become job-ready full stack developer
 
-[Explore all my repositories →](https://github.com/Milan8115?tab=repositories)
+---
+
+<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing 🚀</h3>
