@@ -1,58 +1,327 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Milan Chanda</h1>
-<h3 align="center">BCA Student | Web Developer in Progress | Learning Full Stack Development</h3>
 
-<!-- CODING GIF -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="400" />
+<div align="center">
+
+<p><sub>✦ WELCOME TO MY DIGITAL UNIVERSE ✦</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=milan8115&theme=aurora&variant=living-identity&label=Milan%20Chanda&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=milan8115&theme=aurora&variant=living-identity&label=Milan%20Chanda&mode=dark" width="100%" alt="Milan Chanda animated GitHub profile" />
+</picture>
+
+<h1>Hey, I'm Milan Chanda 👋</h1>
+
+<h3>Full-Stack Developer · AI Explorer · Open-Source Enthusiast</h3>
+
+<p>
+  <em>Turning ideas into experiences, one commit at a time.</em>
 </p>
 
-<!-- TYPING ANIMATION -->
+<p>
+  🎓 BCA Student at Brainware University<br/>
+  💻 Building web applications and exploring AI & Web3<br/>
+  🌏 Based in India · Learning Japanese 🇯🇵
+</p>
+
+<p>
+  <a href="https://github.com/milan8115">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/milan8115?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=milan8115&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile views"/>
+
+</div>
+
+---
+
+## 🧑‍💻 The Developer Behind the Code
+
+I'm **Milan Chanda**, a BCA student and developer passionate about creating technology that solves real problems.
+
+My journey goes beyond writing code. I enjoy building responsive interfaces, connecting frontend applications with backend services, experimenting with AI, and exploring emerging technologies.
+
+I believe great software should be more than functional — it should be intuitive, accessible, and meaningful.
+
+- 🔭 **Currently exploring:** Full-stack development, AI agents, and machine learning
+- 🌱 **Learning:** Advanced web development, cloud technologies, and Japanese
+- 🛠️ **Interested in:** Software engineering, Web3, and intelligent applications
+- 🤝 **Open to:** Internships, collaborations, and interesting open-source projects
+- 🎯 **Goal:** Grow into an engineer capable of building impactful products
+
+---
+
+## ⚡ My Developer DNA
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=milan8115&theme=aurora&items=Full-Stack%3A%3ABuilding%20end-to-end%20applications%7CAI%20%26%20ML%3A%3AExploring%20intelligent%20systems%7CWeb3%3A%3AExperimenting%20with%20blockchain&variant=wow&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=milan8115&theme=aurora&items=Full-Stack%3A%3ABuilding%20end-to-end%20applications%7CAI%20%26%20ML%3A%3AExploring%20intelligent%20systems%7CWeb3%3A%3AExperimenting%20with%20blockchain&variant=wow&mode=dark" width="100%" alt="Developer highlights"/>
+</picture>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css,rust&theme=dark" alt="Programming languages"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" alt="Backend technologies"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,vercel&theme=dark" alt="Developer tools"/>
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Passionate+Frontend+Creator;Learning+DSA+%26+Backend;Turning+Ideas+Into+Reality+🚀" />
+  <sub>Technology is a tool. Solving the right problem is the goal.</sub>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Experience
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
-- 🌱 I’m currently learning **Node.js, Express.js, Data Structures & Algorithms**
-- 👯 I’m looking to collaborate on **Frontend Web Projects**
-- 🤝 I’m looking for help with **Backend Development & Authentication Systems**
-- 👨‍💻 All of my projects are available at  
-  👉 https://github.com/Milan5118
-- 💬 Ask me about **HTML, CSS, JavaScript, C Programming**
-- 📫 Reach me at **milanchanda80@gmail.com**
-- ⚡ Fun fact: *I love turning ideas into real web projects*
+### 🚀 Frontend Developer Intern — Gameonix Esports & Gaming
+
+**February 2026 – July 2026 · Hybrid · Kolkata**
+
+- Developed responsive web pages using React and Tailwind CSS.
+- Worked on Home, Jobs, Job Details, Login, and Contact pages.
+- Implemented dynamic job filtering and search functionality.
+- Built lightweight backend functionality using Node.js and JSON.
+- Focused on usability and mobile-friendly interfaces.
+
+**Tech:** `React` `Tailwind CSS` `JavaScript` `Node.js`
+
+### 🏥 Backend Developer — Vernacular Healthcare Diagnostics
+
+**July 2026 – August 2026**
+
+- Gained practical experience in backend development within a healthcare technology environment.
+- Explored server-side application development and backend workflows.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://linkedin.com/in/milan-chanda" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=milan8115&theme=aurora&repos=milan8115%2Fsturdy%2Cmilan8115%2Fcareer-connect-portal%2Cmilan8115%2Fenergy-trading%2Cmilan8115%2FDictionary&variant=wow&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=milan8115&theme=aurora&repos=milan8115%2Fsturdy%2Cmilan8115%2Fcareer-connect-portal%2Cmilan8115%2Fenergy-trading%2Cmilan8115%2FDictionary&variant=wow&mode=dark" width="100%" alt="Featured project constellation"/>
+</picture>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 CareerConnect Portal
+
+A responsive career portal developed during my frontend internship.
+
+**Highlights**
+- Responsive interface
+- Job browsing and filtering
+- Job details pages
+- Login interface
+
+**Tech:** React, JavaScript, Tailwind CSS, Node.js
+
+<a href="https://github.com/milan8115/career-connect-portal">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Energy Trading
+
+An experimental blockchain-based energy trading project exploring smart contracts and decentralized application development.
+
+**Highlights**
+- Stellar ecosystem exploration
+- Soroban smart contracts
+- Blockchain development
+
+**Tech:** Rust, Stellar, Soroban
+
+<a href="https://github.com/milan8115/energy-trading">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Dictionary
+
+A JavaScript-based project in my collection of practical development experiments.
+
+**Tech:** JavaScript
+
+<a href="https://github.com/milan8115/Dictionary">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Sturdy
+
+One of my public JavaScript repositories, part of my ongoing development journey.
+
+**Tech:** JavaScript
+
+<a href="https://github.com/milan8115/sturdy">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=milan8115&theme=aurora&repos=milan8115%2Fsturdy%2Cmilan8115%2Fcareer-connect-portal%2Cmilan8115%2Fenergy-trading%2Cmilan8115%2FDictionary&variant=wow-timeline&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=milan8115&theme=aurora&repos=milan8115%2Fsturdy%2Cmilan8115%2Fcareer-connect-portal%2Cmilan8115%2Fenergy-trading%2Cmilan8115%2FDictionary&variant=wow-timeline&mode=dark" width="100%" alt="Project timeline"/>
+</picture>
+
+<a href="https://github.com/milan8115?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
 </a>
+
+</div>
+
+---
+
+## 🌐 Beyond the Code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+Exploring machine learning, AI agents, and data-driven applications through hands-on learning and experimentation.
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Blockchain & Web3
+
+Experimenting with Stellar, Soroban smart contracts, and decentralized technologies.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Hackathons & Communities
+
+Participating in developer events, technical bootcamps, and collaborative challenges to learn and build alongside other developers.
+
+</td>
+<td width="50%" valign="top">
+
+### 🇯🇵 Japanese Language
+
+Learning Japanese alongside software development, with a long-term interest in international engineering opportunities.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=milan8115&theme=aurora&variant=wow&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=milan8115&theme=aurora&variant=wow&mode=dark" width="100%" alt="GitHub statistics"/>
+</picture>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan8115&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
+
+---
+
+## 🌌 My Contribution Universe
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=milan8115&theme=aurora&variant=wow&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=milan8115&theme=aurora&variant=wow&mode=dark" width="100%" alt="Contribution heatmap"/>
+</picture>
+
+<p><em>Every commit is another step forward.</em></p>
+
+</div>
+
+---
+
+## 🎯 What I'm Working Toward
+
+```text
+FULL-STACK ENGINEERING
+       │
+       ├── Better application architecture
+       ├── Scalable backend systems
+       ├── Responsive user experiences
+       │
+       ▼
+ARTIFICIAL INTELLIGENCE
+       │
+       ├── Machine learning
+       ├── AI-powered applications
+       ├── Intelligent automation
+       │
+       ▼
+BUILDING IMPACTFUL PRODUCTS
+       │
+       ├── Open-source collaboration
+       ├── Real-world problem solving
+       └── Global engineering opportunities
+```
+
+---
+
+## 🤝 Let's Build Something Together
+
+<div align="center">
+
+<p>
+  I'm always interested in meaningful collaborations, innovative projects,
+  and opportunities to learn from talented people.
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=milan8115&theme=aurora&variant=wow&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=milan8115&theme=aurora&variant=wow&mode=dark" width="100%" alt="Social connections"/>
+</picture>
 
-## 🛠 Languages and Tools
+<a href="https://github.com/milan8115">
+  <img src="https://img.shields.io/badge/Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
 
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,nodejs,express,mongodb,mysql,php,python,git,linux,arduino" />
-</p>
+<br/><br/>
 
----
+### ✨ Dream. Design. Develop. Deploy.
 
-## 🎯 Current Goals
+<p><em>Curiosity drives the learning. Consistency builds the future.</em></p>
 
-- 🚀 Build 3 strong full-stack projects
-- 📚 Improve DSA daily
-- 🔐 Master authentication systems
-- 💼 Become job-ready full stack developer
+<p><sub>Made with 💜 by Milan Chanda · Powered by curiosity and coffee ☕</sub></p>
 
----
-
-<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing 🚀</h3>
+</div>
