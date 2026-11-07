@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · MILAN8115 · LIVE</sub></p>
+<p><sub> PROFILE · MILAN8115 · LIVE</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=milan8115&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208243113%3Fu%3D566b01d61295c83d83caf0bc111fb39c81e458a9%26v%3D4&variant=living-identity&label=Milan%20Chanda&v=wow-living-identity-1&mode=light" />
