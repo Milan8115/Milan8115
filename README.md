@@ -2,6 +2,20 @@
 
 <p><sub> PROFILE · MILAN8115 · LIVE</sub></p>
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20stack&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+milan&center=true&width=500&height=45">
+</p>
+
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=milan8115&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208243113%3Fu%3D566b01d61295c83d83caf0bc111fb39c81e458a9%26v%3D4&variant=living-identity&label=Milan%20Chanda&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=milan8115&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208243113%3Fu%3D566b01d61295c83d83caf0bc111fb39c81e458a9%26v%3D4&variant=living-identity&label=Milan%20Chanda&v=wow-living-identity-1&mode=dark" width="100%" alt="Milan Chanda animated Living Identity portrait and ASCII name" />
@@ -11,7 +25,17 @@
 <p><a href="https://github.com/milan8115">GitHub</a></p>
 </div>
 
+
+
+
+
+
+
+
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+
+
 
 <h2>Identity, with signal</h2>
 
